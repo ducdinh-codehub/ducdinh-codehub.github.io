@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "55T58WTSHF.com.demo.nativeliveness",
+        "paths": ["*"]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": ["55T58WTSHF.com.demo.nativeliveness"]
+  }
+}
